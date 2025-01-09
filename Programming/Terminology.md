@@ -8,3 +8,5 @@ This file is used as a reference for basic terminology in relation to the world 
 
 **Resource** => A resource is any object, document, or information that the API can receive from clients or send to clients.
 
+DTO => 
+
