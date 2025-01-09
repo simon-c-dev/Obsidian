@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP .NET CORE/Introduction.md",
+                "file": "Programming/Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Terminology"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP .NET CORE/Introduction.md"
+                "file": "Programming/Terminology.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Introduction"
+              "title": "Outline of Terminology"
             }
           },
           {
@@ -190,8 +190,10 @@
   },
   "active": "06500c3d40accb5f",
   "lastOpenFiles": [
-    "GameDev/Game dev resources.md",
     "ASP .NET CORE/Introduction.md",
+    "Programming/Terminology.md",
+    "Programming",
+    "GameDev/Game dev resources.md",
     "ASP .NET CORE",
     "Programming/NET Core",
     "Programming",
