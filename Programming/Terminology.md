@@ -6,3 +6,5 @@ This file is used as a reference for basic terminology in relation to the world 
 
 **REST API** => A way for a server/service to communicate with clients. An API defines functions it exposes to clients.
 
+**Resource** => A resource is any object, document, or information that the API can receive from clients or send to clients.
+
