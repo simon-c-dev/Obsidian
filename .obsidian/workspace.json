@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "e5f65d0c85edd55f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab68760e4a8c9373",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98981cbae2b63597",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDev/Game dev resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game dev resources"
+            }
+          },
+          {
+            "id": "69ac260d5b21d062",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDev/Game dev resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game dev resources"
+            }
+          },
+          {
+            "id": "e58d31fd1440712c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GameDev/Game dev resources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Game dev resources"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a0ed4c25e3b28d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd0ea50ede8ddac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06500c3d40accb5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82b08b5940840a7e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ed66ae7d28121ce7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3bd80dd2c4ba1ab8",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f18e6c32bd2124",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5d4c387f0b7e134",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GameDev/Game dev resources.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Game dev resources"
+            }
+          },
+          {
+            "id": "ef3394fe4c41476f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GameDev/Game dev resources.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Game dev resources"
+            }
+          },
+          {
+            "id": "ca181c63716943be",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3328b67c8c48dabd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GameDev/Game dev resources.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Game dev resources"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3328b67c8c48dabd",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "GameDev/Game dev resources.md",
+    "Programming/NET Core",
+    "Programming",
+    "École/IMN5151",
+    "École",
+    "GameDev"
+  ]
+}
