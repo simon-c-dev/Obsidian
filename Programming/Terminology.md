@@ -8,5 +8,6 @@ This file is used as a reference for basic terminology in relation to the world 
 
 **Resource** => A resource is any object, document, or information that the API can receive from clients or send to clients.
 
-DTO => 
+**DTO** => A data transfer object (DTO) is **an object that carries data between processes**. You can use this technique to facilitate communication between two systems (like an API and your server) without potentially exposing sensitive information.
+
 
