@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotNET CORE/Introduction.md",
+                "file": "ASP .NET CORE/Introduction.md",
                 "mode": "source",
                 "source": false
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotNET CORE/Introduction.md"
+                "file": "ASP .NET CORE/Introduction.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Introduction"
@@ -191,8 +191,8 @@
   "active": "06500c3d40accb5f",
   "lastOpenFiles": [
     "GameDev/Game dev resources.md",
-    "dotNET CORE/Introduction.md",
-    "dotNET CORE",
+    "ASP .NET CORE/Introduction.md",
+    "ASP .NET CORE",
     "Programming/NET Core",
     "Programming",
     "École/IMN5151",
