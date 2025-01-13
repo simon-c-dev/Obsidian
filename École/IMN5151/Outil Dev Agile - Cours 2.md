@@ -11,8 +11,10 @@ Flow a respecter:
 - Créer un projet
 - Créer un issue
 - Créer une branche à partir d'un issue
-- Clone projet
-- URL de l'issue + titre de l'issue 
+- Clone projet 
+- Modif + git add
+- git commit -> URL de l'issue + titre de l'issue 
+- git push deja tracker donc pas de upstream
 
 
 
