@@ -18,6 +18,9 @@ Flow a respecter:
 
 Maven: 
 Gestionnaire de dépendances
+Utilisé des convention de maven au lieux de configuration complexe
+Garantie un processus de constructio -> Une uniformité a travers tout les membre de lequippe, un standard est imposé par maven.
+Fichier POM: Centralisé les dépendance pour maven -> Cest loutil de communication avec maven.
 
 
 
