@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -175,9 +176,9 @@
   },
   "active": "3e7f424f676a12f0",
   "lastOpenFiles": [
+    "École/IMN5151/Outil Dev Agile - Cours 2.md",
     "Programming/Terminology.md",
     "GameDev/Game dev resources.md",
-    "École/IMN5151/Outil Dev Agile - Cours 2.md",
     "conflict-files-obsidian-git.md",
     "ASP .NET CORE/Introduction.md",
     "ASP .NET CORE",
