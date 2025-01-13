@@ -6,7 +6,13 @@ Gitlab -  Gestionnaire de source avec intégration continue.
 Méthodologie #GitFlow : Devra etre utilisé
 	- Chaque branche = 1 issue -> Creer une branche a partir d'un issue
 	- Feature branching
-	- 
+
+Flow a respecter: 
+- Créer un projet
+- Créer un issue
+- Créer une branche à partir d'un issue
+- Clone projet
+- 
 
 
 
