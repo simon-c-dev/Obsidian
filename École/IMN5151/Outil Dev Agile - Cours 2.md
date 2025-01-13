@@ -23,6 +23,13 @@ Garantie un processus de constructio -> Une uniformité a travers tout les membr
 Fichier POM: Centralisé les dépendance pour maven -> Cest loutil de communication avec maven.
 
 
+GitLab-CI:
+Détection de fautes rapide et identifiable à un commit.
+Fichier de git-lab.ci: Détermine un processus de build a exécuter pour chaque commit a distance.
+- Roule dans un sandbox/VM/Conteneur
+- Doit spécifier certaines dépendance a installer
+
+
 
 
 
