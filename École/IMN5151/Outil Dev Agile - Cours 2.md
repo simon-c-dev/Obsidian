@@ -16,6 +16,10 @@ Flow a respecter:
 - git commit -> URL de l'issue + titre de l'issue 
 - git push deja tracker donc pas de upstream
 
+Maven: 
+Gestionnaire de dépendances
+
+
 
 
 
