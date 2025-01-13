@@ -29,6 +29,10 @@ Fichier de git-lab.ci: Détermine un processus de build a exécuter pour chaque 
 - Roule dans un sandbox/VM/Conteneur
 - Doit spécifier certaines dépendance a installer
 
+Tests:
+Test unitaire pour CI
+Test fonctionnel -> Ils vérifient uniquement la sortie d'une action et non les états intermédiaires du système lors de l'exécution de cette action.
+
 
 
 
