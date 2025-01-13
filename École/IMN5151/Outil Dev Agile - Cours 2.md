@@ -12,7 +12,7 @@ Flow a respecter:
 - Créer un issue
 - Créer une branche à partir d'un issue
 - Clone projet
-- 
+- URL de l'issue + titre de l'issue 
 
 
 
