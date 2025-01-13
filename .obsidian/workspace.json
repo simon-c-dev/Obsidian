@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ab68760e4a8c9373",
+        "id": "40b8d68b4875fc54",
         "type": "tabs",
         "children": [
           {
-            "id": "98981cbae2b63597",
+            "id": "3e7f424f676a12f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GameDev/Game dev resources.md",
+                "file": "École/IMN5151/Outil Dev Agile - Cours 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Game dev resources"
-            }
-          },
-          {
-            "id": "69ac260d5b21d062",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GameDev/Game dev resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Game dev resources"
-            }
-          },
-          {
-            "id": "e58d31fd1440712c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Terminology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terminology"
+              "title": "Outil Dev Agile - Cours 2"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Terminology.md"
+                "file": "École/IMN5151/Outil Dev Agile - Cours 2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminology"
+              "title": "Outline of Outil Dev Agile - Cours 2"
             }
           },
           {
@@ -202,14 +173,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e58d31fd1440712c",
+  "active": "3e7f424f676a12f0",
   "lastOpenFiles": [
+    "Programming/Terminology.md",
+    "GameDev/Game dev resources.md",
     "École/IMN5151/Outil Dev Agile - Cours 2.md",
     "conflict-files-obsidian-git.md",
-    "Programming/Terminology.md",
     "ASP .NET CORE/Introduction.md",
     "ASP .NET CORE",
-    "GameDev/Game dev resources.md",
     "Untitled.md",
     "Programming/NET Core",
     "Programming",
