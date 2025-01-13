@@ -185,11 +185,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 289.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,8 +204,12 @@
   },
   "active": "e58d31fd1440712c",
   "lastOpenFiles": [
-    "GameDev/Game dev resources.md",
+    "conflict-files-obsidian-git.md",
     "École/IMN5151/Outil Dev Agile - Cours 2.md",
+    "Programming/Terminology.md",
+    "ASP .NET CORE/Introduction.md",
+    "ASP .NET CORE",
+    "GameDev/Game dev resources.md",
     "Untitled.md",
     "Programming/NET Core",
     "Programming",
