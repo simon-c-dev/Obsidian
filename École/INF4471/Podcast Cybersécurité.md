@@ -1,4 +1,4 @@
-Expert en cyber sécurité est premierement debute en formation en informatique. Formation en algorithmique, mathématique, développement.
+Expert en cyber sécurité est premièrement débute en formation en informatique. Formation en algorithmique, mathématique, développement, réseautique.
 
 Analyse de malware avec des développeurs.
 
@@ -12,3 +12,7 @@ Tu peux devenir un spécialiste avec des formations, ou par l'autoformation. Mai
 
 Reverse ?
 Analyse de malware ?
+Rétroingénierie ?
+CTF ?
+
+
