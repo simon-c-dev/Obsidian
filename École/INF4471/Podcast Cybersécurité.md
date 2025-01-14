@@ -14,6 +14,8 @@ Tu peux devenir un spécialiste avec des formations, ou par l'autoformation. Mai
 
 Très en demande, les expert sont en demande pour former les étudiant en cybersécurité. Sans professeur, il n'y aura pas de cours, n'y d'étudiant qui seront former.
 
+Profil de jeune ont plus de temps pour se former.
+
 Reverse ?
 Analyse de malware ?
 Rétroingénierie ?
