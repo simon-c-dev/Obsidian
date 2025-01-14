@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "École/IMN5151/Outil Dev Agile - Cours 2.md",
+                "file": "École/INF4471/Podcast Cybersécurité.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Outil Dev Agile - Cours 2"
+              "title": "Podcast Cybersécurité"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GameDev/Game dev resources.md"
+                "file": "École/INF4471/Podcast Cybersécurité.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Game dev resources"
+              "title": "Outline of Podcast Cybersécurité"
             }
           },
           {
@@ -187,12 +188,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fe3c5afe04010d34",
+  "active": "6bf889eeef4274d5",
   "lastOpenFiles": [
     "École/IMN5151/Outil Dev Agile - Cours 2.md",
+    "GameDev/Game dev resources.md",
     "École/INF4471/Podcast Cybersécurité.md",
     "École/INF4471",
-    "GameDev/Game dev resources.md",
     "Programming/Terminology.md",
     "École/IMN5151",
     "École",

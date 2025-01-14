@@ -12,9 +12,12 @@ Tu peux devenir un spécialiste avec des formations, ou par l'autoformation. Mai
 
 École peux te forcer à apprendre des choses moins intéressante mais nécessaire qui pourraient ne jamais être appris si quelqu'un s'autoforme.
 
+Très en demande, les expert sont en demande pour former les étudiant en cybersécurité. Sans professeur, il n'y aura pas de cours, n'y d'étudiant qui seront former.
+
 Reverse ?
 Analyse de malware ?
 Rétroingénierie ?
 CTF ?
+Pen test ?
 
 
