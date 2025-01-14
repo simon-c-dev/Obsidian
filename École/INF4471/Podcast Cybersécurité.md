@@ -10,6 +10,8 @@ Il faut se pousser dans ses limites. Ne pas s'arrêter quand on dit que c'est di
 
 Tu peux devenir un spécialiste avec des formations, ou par l'autoformation. Mais pas un expert, par contre sur le bon chemin.
 
+École peux te forcer à apprendre des choses moins intéressante mais nécessaire qui pourraient ne jamais être appris si quelqu'un s'autoforme.
+
 Reverse ?
 Analyse de malware ?
 Rétroingénierie ?
