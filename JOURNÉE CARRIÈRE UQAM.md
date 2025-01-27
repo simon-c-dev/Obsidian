@@ -6,8 +6,9 @@ Liste des entreprises par ordre de priorité:
 2. SKADRA
 	1. PYTHON (Django, Flask)
 	2. Javascript (React.js,Vue.js)
-3. CACTUSOFT
+3. Solution BI
+4. CACTUSOFT
 	1. 
-4. EATON
+5. EATON
 	1. 
 
