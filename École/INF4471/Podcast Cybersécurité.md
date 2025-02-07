@@ -16,7 +16,7 @@ Très en demande, les expert sont en demande pour former les étudiant en cybers
 
 Profil de jeune ont plus de temps pour se former.
 
-faire attention a rester trop longtemps dans le technique et sinvestir dans le pratique/fonctionelle 
+faire attention a rester trop longtemps dans le technique et s'investir dans le pratique/fonctionelle 
 
 Reverse ?
 Analyse de malware ?
