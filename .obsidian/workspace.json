@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journal/Untitled.md",
+                "file": "2025-02-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "2025-02-07"
             }
           }
         ],
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journal/Untitled.md",
+                "file": "2025-02-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of 2025-02-07"
             }
           },
           {
@@ -173,6 +173,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "7bc83e90ffe44b29",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {},
+              "icon": "calendar-days",
+              "title": "Calendar"
             }
           }
         ],
@@ -193,10 +203,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed66ae7d28121ce7",
+  "active": "6bf889eeef4274d5",
   "lastOpenFiles": [
-    "École/INF4471/Podcast Cybersécurité.md",
     "Journal/Untitled.md",
+    "2025-02-07.md",
+    "École/INF4471/Podcast Cybersécurité.md",
     "Journal",
     "JOURNÉE CARRIÈRE UQAM.md",
     "École/IMN5151/Outil Dev Agile - Cours 2.md",
