@@ -29,7 +29,7 @@ Voici les réponses avec les calculs pour chaque question :
 #### **Question 3** : Temps consacré à l’activité 3 (vérification des demandes)
 
 - **3 heures par semaine**.
-- Conversion en minutes : 3×60=1803 \times 60 = 180.
+- Conversion en minutes : 3×60=1803 \cdot 60 = 180.
 
 **Réponse** : **180 minutes**
 
