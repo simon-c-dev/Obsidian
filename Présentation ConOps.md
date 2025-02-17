@@ -5,6 +5,7 @@
 - ### Une plateforme web qui centralise et recommande une grande variété de média (film, séries, livres, jeux vidéo, et musique)
 - ### Contrairement aux autres plateforme existante qui sont spécialisé sur un seul type de média.
 - ### MediaVerse réunit tout en un seul endroit et propose une expérience personnalisée basée sur les préférences des utilisateurs.
+- ## Une mise en situation, tu viens de terminer ta séries de livre préféré, MediaVerse te propose un film qui provient de cette univers et t'indique sur quelle plateforme allé l'écouté. 
 
 ## Pourquoi MediaVerse ? En quoi sommes-nous différents ? 
 
