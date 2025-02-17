@@ -2,12 +2,9 @@
 
 ## MediaVerse qu'est-ce que c'est ?
 
-- ### Une plateforme web Innovante 
-- ### Centralise et recommande un grande variété de média
-	- film, séries, livres, jeux vidéo, et musique
+- ### Une plateforme web qui centralise et recommande un grande variété de média (film, séries, livres, jeux vidéo, et musique)
 - ### Contrairement aux autres plateforme existante qui sont spécialisé sur un seul type de média.
-- ### MediaVerse réunit tout en un seul endroit et propose un expérience personnalisée basée sur les préférences des utilisateurs.
-- ### 
+- ### MediaVerse réunit tout en un seul endroit et propose une expérience personnalisée basée sur les préférences des utilisateurs.
 
 ## Pourquoi MediaVerse ? En quoi sommes-nous différents ? 
 
