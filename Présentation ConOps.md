@@ -16,6 +16,7 @@
 ✅ **Des listes personnalisées et collaboratives** pour créer et partager des sélections de contenus.  
 ✅ **Une intégration avec les plateformes de streaming** via JustWatch, pour savoir où regarder un film ou une série immédiatement.  
 ✅ **Des statistiques d’utilisateur** pour mieux comprendre ses habitudes culturelles.  
+
 L’objectif est de **rendre la découverte de contenus plus intuitive et plus immersive** qu’avec IMDB, Goodreads ou Spotify séparément.
 
 ## 3. Comment MediaVerse va s’y prendre ?
