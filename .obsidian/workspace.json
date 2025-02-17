@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-08.md",
+                "file": "Journal/2025-02-08.md",
                 "mode": "source",
                 "source": false
               },
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Journal/2025-02-08.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2025-02-08"
             }
           },
           {
@@ -169,7 +170,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -187,10 +188,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "089bfe28579246c4",
+  "active": "3328b67c8c48dabd",
   "lastOpenFiles": [
-    "2025-02-07.md",
-    "2025-02-08.md",
+    "Journal/2025-02-07.md",
+    "Journal/2025-02-08.md",
     "Journal/Untitled.md",
     "Untitled.md",
     "Untitled",
