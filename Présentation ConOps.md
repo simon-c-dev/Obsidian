@@ -10,7 +10,10 @@
 - ### 
 
 ## Pourquoi MediaVerse ? En quoi sommes-nous différents ? 
-Les utilisateurs d’aujourd’hui jonglent entre plusieurs plateformes pour suivre leurs contenus préférés. MediaVerse **simplifie cette expérience** en unifiant les médias sur une même interface et en offrant :  
+
+- ### Aujourdhui les utilisateur jouglent plusieurs plateforme pour suivrent leurs contenus.
+- ### Media verse simplie cette expérience en unifiant les médias sur une même interface.
+
 ✅ **Des recommandations intelligentes** en analysant les goûts de l’utilisateur à travers plusieurs types de médias.  
 ✅ **Des listes personnalisées et collaboratives** pour créer et partager des sélections de contenus.  
 ✅ **Une intégration avec les plateformes de streaming** via JustWatch, pour savoir où regarder un film ou une série immédiatement.  
