@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Terminology.md",
+                "file": "ASP .NET CORE/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terminology"
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "ca3b11b1f456538f",
+            "type": "leaf",
+            "state": {
+              "type": "google-calendar-view-web",
+              "state": {},
+              "icon": "globe-2",
+              "title": "GCal Web View"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,13 +151,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Terminology.md",
+                "file": "ASP .NET CORE/Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Terminology"
+              "title": "Outline of Introduction"
             }
           },
           {
@@ -188,8 +199,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9c01f65a29388beb",
+  "active": "ca3b11b1f456538f",
   "lastOpenFiles": [
+    "Programming/Terminology.md",
+    "Untitled.md",
     "JOURNÉE CARRIÈRE UQAM.md",
     "Présentation ConOps.md",
     "Journal/2025-02-08.md",
@@ -201,7 +214,6 @@
     "Journal",
     "École/IMN5151/Outil Dev Agile - Cours 2.md",
     "École/INF4471",
-    "Programming/Terminology.md",
     "École/IMN5151",
     "École",
     "ASP .NET CORE/Introduction.md",
