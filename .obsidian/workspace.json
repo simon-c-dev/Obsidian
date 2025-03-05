@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Présentation ConOps.md",
+                "file": "Programming/Terminology.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Présentation ConOps"
+              "title": "Terminology"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Présentation ConOps.md",
+                "file": "Programming/Terminology.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Présentation ConOps"
+              "title": "Outline of Terminology"
             }
           },
           {
@@ -190,6 +190,7 @@
   },
   "active": "9c01f65a29388beb",
   "lastOpenFiles": [
+    "JOURNÉE CARRIÈRE UQAM.md",
     "Présentation ConOps.md",
     "Journal/2025-02-08.md",
     "Journal/2025-02-07.md",
@@ -198,7 +199,6 @@
     "GameDev/Game dev resources.md",
     "École/INF4471/Podcast Cybersécurité.md",
     "Journal",
-    "JOURNÉE CARRIÈRE UQAM.md",
     "École/IMN5151/Outil Dev Agile - Cours 2.md",
     "École/INF4471",
     "Programming/Terminology.md",
